@@ -1,2 +1,29 @@
-# aws-developer-associate-notes
-This repository is a record book for obtaining the AWS Certified Developer Associate
+# AWS デベロッパーアソシエイト認定資格取得に向けた学習記録
+
+- 取得に向けた準備と試験についての記録を記載
+
+## 事前準備
+
+- [プラクティショナー認定資格学習記録](https://github.com/Tomoki-Kitano/aws-cloud-practitioner-notes)をもとにUdemy AWS認定デベロッパーアソシエイト模擬問題集を購入
+  - 後に購入したが受講したコースが途中でなくなってしまう
+
+## 学習方法
+
+- 認定資格取得についての取り組みを記載
+
+### 学習方法概要
+
+- Udemyでの模擬問題集の取り組み
+- 黒本を1日5分以上読む
+
+### 学習方法詳細
+
+- [詳細](notes/learing.md)
+
+## 認定試験
+
+- FY24上期での受験を見送る
+
+## 結果
+
+- 未受験
